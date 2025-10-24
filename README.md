@@ -51,9 +51,10 @@ A web app for browsing D&D 5e spells. Built with Svelte 5, Vite, and Tailwind CS
 - Browse all spells from the D&D 5e API
 - Search by name
 - Filter by spell level or class
-- View detailed spell information
+- View detailed spell information with markdown rendering
 - Light/dark theme (or use system preference)
 - Caching to avoid hammering the API
+- XSS protection with DOMPurify sanitization
 - Works on mobile and desktop
 
 ## Setup
