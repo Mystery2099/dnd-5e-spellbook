@@ -2,6 +2,50 @@
 
 A web app for browsing D&D 5e spells. Built with Svelte 5, Vite, and Tailwind CSS.
 
+## Screenshots
+
+### Desktop
+<table>
+  <tr>
+    <td width="50%">
+      <img src="public/dnd-web1.png" alt="Desktop spell list">
+      <p align="center"><em>Spell list with search and filters</em></p>
+    </td>
+    <td width="50%">
+      <img src="public/dnd-web2.png" alt="Desktop spell details">
+      <p align="center"><em>Detailed spell view with markdown</em></p>
+    </td>
+  </tr>
+</table>
+
+### Mobile
+<table>
+  <tr>
+    <td width="50%">
+      <img src="public/dnd-web3.png" alt="Mobile spell list">
+      <p align="center"><em>Responsive spell list</em></p>
+    </td>
+    <td width="50%">
+      <img src="public/dnd-web4.png" alt="Mobile spell details">
+      <p align="center"><em>Spell details with back button</em></p>
+    </td>
+  </tr>
+</table>
+
+### Features
+<table>
+  <tr>
+    <td width="50%">
+      <img src="public/theme-change.png" alt="Theme toggle">
+      <p align="center"><em>Light, dark, and system theme options</em></p>
+    </td>
+    <td width="50%">
+      <img src="public/caching.png" alt="Cache stats">
+      <p align="center"><em>Cache stats widget</em></p>
+    </td>
+  </tr>
+</table>
+
 ## Features
 
 - Browse all spells from the D&D 5e API
